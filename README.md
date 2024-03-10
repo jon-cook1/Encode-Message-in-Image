@@ -1,6 +1,6 @@
 # Image Message Encoder/Decoder
 
-This Python program is designed to encode and decode messages within the RGB values of an image. It slightly manipulates the RGB values to encode a message in binary that is not visible to the naked eye. The script can then decode the message from the image. The project was created as part of COSC 208: Introduction to Computer Systems, Fall 2023.
+This Python program is designed to encode and decode messages within the RGB values of an image. It slightly manipulates the RGB values to encode a message in binary that is not visible to the naked eye. The script can then decode the message from the image. Created in 2022.
 
 ## How It Works
 
